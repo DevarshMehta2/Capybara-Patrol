@@ -21,7 +21,7 @@ One languid summer’s afternoon, the intrepid protagonists Alice and Bob elect 
 
 ## Input Format
 
-- A single integer N on its own line, where 1 <= N <= 9.
+- A single integer N on its own line, where 1 <= N  .
 
 ## Output Format
 
@@ -29,8 +29,8 @@ One languid summer’s afternoon, the intrepid protagonists Alice and Bob elect 
 
 ## Constraints
 
-- 1 <= N <= 9
-- Time limit per test case: 1 ms
+- 1 <= N 
+- Time limit per test case: 1000 ms
 - Memory limit: 256 MB
 
 ## Example
