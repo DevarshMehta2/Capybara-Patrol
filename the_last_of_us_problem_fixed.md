@@ -25,7 +25,7 @@ One languid summer’s afternoon, the intrepid protagonists Alice and Bob elect 
 
 ## Output Format
 
-- A single rational (floating-point) number: the probability that Alice wins the game, printed with at least six decimal places of precision.
+- A single rational (floating-point) number: the probability that Alice wins the game.
 
 ## Constraints
 
